@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EXTRICKY.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="22" y="0" width="972" height="830" frameX="-151" frameY="-20" frameWidth="1018" frameHeight="867"/>
+	<SubTexture name="Idle0001" x="997" y="0" width="699" height="808" frameX="-31" frameY="0" frameWidth="1018" frameHeight="867"/>
+	<SubTexture name="Idle0002" x="1703" y="0" width="1025" height="792" frameX="-234" frameY="-6" frameWidth="1018" frameHeight="867"/>
+	<SubTexture name="Idle0003" x="2732" y="0" width="931" height="816" frameX="0" frameY="-13" frameWidth="1018" frameHeight="867"/>
+	<SubTexture name="Down0000" x="0" y="960" width="699" height="556" frameX="0" frameY="-49" frameWidth="783" frameHeight="610"/>
+	<SubTexture name="Down0001" x="820" y="962" width="655" height="563" frameX="0" frameY="-24" frameWidth="783" frameHeight="610"/>
+	<SubTexture name="Down0002" x="1625" y="961" width="574" height="523" frameX="0" frameY="-41" frameWidth="783" frameHeight="610"/>
+	<SubTexture name="Left0000" x="0" y="1669" width="932" height="897" frameX="0" frameY="-78" frameWidth="952" frameHeight="973"/>
+	<SubTexture name="Left0001" x="936" y="1683" width="750" height="837" frameX="-178" frameY="-91" frameWidth="952" frameHeight="973"/>
+	<SubTexture name="Left0002" x="1684" y="1664" width="692" height="794" frameX="-210" frameY="-144" frameWidth="952" frameHeight="973"/>
+	<SubTexture name="Right0000" x="0" y="2652" width="1015" height="830" frameX="-82" frameY="0" frameWidth="1079" frameHeight="839"/>
+	<SubTexture name="Right0001" x="1024" y="2652" width="938" height="830" frameX="-61" frameY="-26" frameWidth="1079" frameHeight="839"/>
+	<SubTexture name="Right0002" x="1954" y="2652" width="812" height="768" frameX="-12" frameY="-26" frameWidth="1079" frameHeight="839"/>
+	<SubTexture name="Up0000" x="2869" y="2182" width="891" height="870" frameX="0" frameY="0" frameWidth="960" frameHeight="1007"/>
+	<SubTexture name="Up0001" x="3128" y="1288" width="797" height="804" frameX="-63" frameY="-100" frameWidth="960" frameHeight="1007"/>
+</TextureAtlas>

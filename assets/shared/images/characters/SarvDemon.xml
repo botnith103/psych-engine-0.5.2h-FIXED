@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smokinhotbabe.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sarvdemonDown0000" x="5" y="5" width="709" height="501"/>
+	<SubTexture name="sarvdemonDown0001" x="724" y="5" width="686" height="563"/>
+	<SubTexture name="sarvdemonDown0002" x="1420" y="5" width="687" height="558"/>
+	<SubTexture name="sarvdemonIdle0000" x="2117" y="5" width="465" height="555"/>
+	<SubTexture name="sarvdemonIdle0001" x="2592" y="5" width="465" height="556"/>
+	<SubTexture name="sarvdemonIdle0002" x="2117" y="571" width="721" height="553"/>
+	<SubTexture name="sarvdemonIdle0003" x="5" y="1134" width="719" height="596"/>
+	<SubTexture name="sarvdemonIdle0004" x="734" y="1134" width="719" height="585"/>
+	<SubTexture name="sarvdemonIdle0005" x="1462" y="1134" width="721" height="582"/>
+	<SubTexture name="sarvdemonIdle0006" x="2194" y="1134" width="720" height="580"/>
+	<SubTexture name="sarvdemonIdle0007" x="2194" y="1724" width="713" height="594"/>
+	<SubTexture name="sarvdemonIdle0008" x="5" y="2328" width="663" height="590"/>
+	<SubTexture name="sarvdemonIdle0009" x="678" y="2328" width="666" height="584"/>
+	<SubTexture name="sarvdemonIdle0010" x="1354" y="2328" width="655" height="585"/>
+	<SubTexture name="sarvdemonIdle0011" x="2019" y="2328" width="659" height="577"/>
+	<SubTexture name="sarvdemonIdle0012" x="3067" y="5" width="564" height="555"/>
+	<SubTexture name="sarvdemonLeft0000" x="5" y="570" width="587" height="497"/>
+	<SubTexture name="sarvdemonLeft0001" x="3067" y="570" width="531" height="516"/>
+	<SubTexture name="sarvdemonLeft0002" x="2924" y="1096" width="577" height="523"/>
+	<SubTexture name="sarvdemonRight0000" x="2924" y="1629" width="576" height="529"/>
+	<SubTexture name="sarvdemonRight0001" x="2917" y="2168" width="650" height="528"/>
+	<SubTexture name="sarvdemonRight0002" x="2688" y="2706" width="642" height="527"/>
+	<SubTexture name="sarvdemonUp0000" x="3641" y="5" width="712" height="661"/>
+	<SubTexture name="sarvdemonUp0001" x="3608" y="676" width="704" height="656"/>
+	<SubTexture name="sarvdemonUp0002" x="3511" y="1342" width="691" height="648"/>
+</TextureAtlas>

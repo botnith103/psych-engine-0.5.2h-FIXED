@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Beast.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Beast_DOWN0000" x="8" y="1044" width="620" height="860" frameX="0" frameY="-49" frameWidth="620" frameHeight="860"/>
+	<SubTexture name="Beast_DOWN0001" x="8" y="1938" width="620" height="860" frameX="0" frameY="-49" frameWidth="620" frameHeight="860"/>
+	<SubTexture name="Beast_DOWN0002" x="2793" y="1938" width="620" height="860" frameX="0" frameY="-49" frameWidth="620" frameHeight="860"/>
+	<SubTexture name="Beast_IDLE0000" x="8" y="8" width="558" height="940" frameX="-18" frameY="-23" frameWidth="558" frameHeight="940"/>
+	<SubTexture name="Beast_IDLE0001" x="644" y="1044" width="558" height="940" frameX="-18" frameY="-23" frameWidth="558" frameHeight="940"/>
+	<SubTexture name="Beast_IDLE0002" x="3429" y="1938" width="558" height="940" frameX="-18" frameY="-23" frameWidth="558" frameHeight="940"/>
+	<SubTexture name="Beast_IDLE0003" x="8" y="2894" width="558" height="940" frameX="-18" frameY="-28" frameWidth="558" frameHeight="940"/>
+	<SubTexture name="Beast_IDLE0004" x="582" y="2894" width="558" height="940" frameX="-18" frameY="-28" frameWidth="558" frameHeight="940"/>
+	<SubTexture name="Beast_IDLE0005" x="582" y="2894" width="558" height="940" frameX="-18" frameY="-28" frameWidth="558" frameHeight="940"/>
+	<SubTexture name="Beast_LEFT0000" x="582" y="8" width="916" height="852" frameX="0" frameY="-1" frameWidth="916" frameHeight="852"/>
+	<SubTexture name="Beast_LEFT0001" x="1218" y="1044" width="916" height="852" frameX="0" frameY="-1" frameWidth="916" frameHeight="852"/>
+	<SubTexture name="Beast_RIGHT0000" x="1514" y="8" width="755" height="878" frameX="-3" frameY="-5" frameWidth="755" frameHeight="878"/>
+	<SubTexture name="Beast_RIGHT0001" x="2150" y="1044" width="755" height="878" frameX="-3" frameY="-5" frameWidth="755" frameHeight="878"/>
+	<SubTexture name="Beast_RIGHT0002" x="2928" y="8" width="755" height="878" frameX="-3" frameY="-5" frameWidth="755" frameHeight="878"/>
+	<SubTexture name="Beast_UP0000" x="1218" y="1938" width="627" height="1020"frameX="0" frameY="-1" frameWidth="627" frameHeight="1020"/>
+	<SubTexture name="Beast_UP0001" x="2928" y="902" width="627" height="1020" frameX="0" frameY="-1" frameWidth="627" frameHeight="1020"/>
+</TextureAtlas>
