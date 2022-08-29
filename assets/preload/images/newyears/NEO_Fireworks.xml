@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NEO_Fireworks.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Week 5 Firework Blue0000" x="0" y="0" width="22" height="35" pivotX="-159" pivotY="375.5" frameX="-75" frameY="-520" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0001" x="0" y="0" width="22" height="35" frameX="-75" frameY="-520" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0002" x="32" y="0" width="44" height="90" frameX="-94" frameY="-424" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0003" x="32" y="0" width="44" height="90" frameX="-94" frameY="-424" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0004" x="86" y="0" width="62" height="143" frameX="-135" frameY="-268" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0005" x="86" y="0" width="62" height="143" frameX="-135" frameY="-268" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0006" x="158" y="0" width="33" height="78" frameX="-197" frameY="-166" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0007" x="158" y="0" width="33" height="78" frameX="-197" frameY="-166" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0008" x="201" y="0" width="22" height="18" frameX="-226" frameY="-125" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0009" x="201" y="0" width="22" height="18" frameX="-226" frameY="-125" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0010" x="233" y="0" width="9" height="7" frameX="-233" frameY="-130" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0011" x="233" y="0" width="9" height="7" frameX="-233" frameY="-130" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0012" x="252" y="0" width="452" height="237" frameX="0" frameY="0" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0013" x="252" y="0" width="452" height="237" frameX="0" frameY="0" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0014" x="0" y="247" width="388" height="209" frameX="-32" frameY="-14" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0015" x="398" y="247" width="381" height="200" frameX="-32" frameY="-31" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0016" x="398" y="247" width="381" height="200" frameX="-32" frameY="-31" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0017" x="0" y="466" width="376" height="192" frameX="-36" frameY="-46" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0018" x="0" y="466" width="376" height="192" frameX="-36" frameY="-46" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0019" x="386" y="466" width="372" height="195" frameX="-35" frameY="-47" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0020" x="386" y="466" width="372" height="195" frameX="-35" frameY="-47" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0021" x="768" y="466" width="0" height="0" frameX="159" frameY="-375" frameWidth="452" frameHeight="555"/>
+	<SubTexture name="Week 5 Firework Blue0022" x="0" y="0" width="22" height="35" frameX="-75" frameY="-520" frameWidth="452" frameHeight="555"/>
+</TextureAtlas>
