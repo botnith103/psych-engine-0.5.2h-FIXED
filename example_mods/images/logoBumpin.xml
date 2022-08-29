@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xdxdxd.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumpin0000" x="0" y="0" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0001" x="916" y="0" width="941" height="687"/>
+	<SubTexture name="logo bumpin0002" x="0" y="687" width="933" height="680" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0003" x="933" y="687" width="924" height="673" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0004" x="0" y="1367" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0005" x="0" y="1367" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0006" x="0" y="1367" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0007" x="0" y="1367" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0008" x="0" y="1367" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0009" x="0" y="1367" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0010" x="0" y="1367" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0011" x="0" y="1367" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0012" x="0" y="1367" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+	<SubTexture name="logo bumpin0013" x="0" y="1367" width="916" height="666" frameX="0" frameY="0" frameWidth="941" frameHeight="687"/>
+</TextureAtlas>
