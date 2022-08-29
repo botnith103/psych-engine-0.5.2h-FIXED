@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				360,
+				97
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				360,
+				97
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				360,
+				97
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				360,
+				97
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-240,
+				6
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				470,
+				360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Ass",
+			"indices": [],
+			"name": "ass"
+		},
+		{
+			"offsets": [
+				-20,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "freddy fazbear",
+			"indices": [],
+			"name": "freddy"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/freddy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fed",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		60,
+		14
+	],
+	"camera_position": [
+		100,
+		-260
+	],
+	"sing_duration": 10,
+	"scale": 1.4
+}
