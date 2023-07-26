@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-30
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sarvdemonDown"
+		},
+		{
+			"offsets": [
+				-66,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sarvdemonRight"
+		},
+		{
+			"offsets": [
+				26,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sarvdemonUp"
+		},
+		{
+			"offsets": [
+				-40,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sarvdemonLeft"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "sarvdemonIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarvdemon",
+	"position": [
+		-320,
+		0
+	],
+	"healthicon": "sarvdemon",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		2,
+		206
+	],
+	"camera_position": [
+		200,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

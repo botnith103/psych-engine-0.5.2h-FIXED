@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freddy.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+  <SubTexture name="Dad idle dance0001" x="0" y="0"  width="295" height="654" frameX="-0" frameY="-0" frameWidth="295" frameHeight="654"/>
+  <SubTexture name="Dad idle dance0002" x="295" y="0"  width="295" height="654" frameX="-0" frameY="-0" frameWidth="295" frameHeight="654"/>
+  <SubTexture name="Dad idle dance0003" x="590" y="0"  width="292" height="654" frameX="-0" frameY="-0" frameWidth="292" frameHeight="654"/>
+  <SubTexture name="Dad idle dance0008" x="882" y="0"  width="290" height="654" frameX="-0" frameY="-0" frameWidth="290" frameHeight="654"/>
+  <SubTexture name="Dad idle dance0009" x="1172" y="0"  width="293" height="654" frameX="-0" frameY="-0" frameWidth="293" frameHeight="654"/>
+  <SubTexture name="Dad idle dance00010" x="1465" y="0"  width="293" height="655" frameX="-0" frameY="-0" frameWidth="293" frameHeight="655"/>
+  <SubTexture name="Dad idle dance0006" x="1758" y="0"  width="285" height="655" frameX="-0" frameY="-0" frameWidth="285" frameHeight="655"/>
+  <SubTexture name="Dad idle dance0007" x="2043" y="0"  width="287" height="655" frameX="-0" frameY="-0" frameWidth="287" frameHeight="655"/>
+  <SubTexture name="Dad idle dance0000" x="2330" y="0"  width="293" height="656" frameX="-0" frameY="-0" frameWidth="293" frameHeight="656"/>
+  <SubTexture name="Dad idle dance0004" x="2623" y="0"  width="289" height="656" frameX="-0" frameY="-0" frameWidth="289" frameHeight="656"/>
+  <SubTexture name="Dad idle dance0005" x="2912" y="0"  width="285" height="657" frameX="-0" frameY="-0" frameWidth="285" frameHeight="657"/>
+  <SubTexture name="Dad Sing Note DOWN0000" x="0" y="654"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note DOWN0001" x="0" y="654"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note DOWN0002" x="1280" y="656"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note DOWN0003" x="2560" y="657"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note LEFT0000" x="0" y="1374"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note LEFT0001" x="0" y="1374"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note LEFT0002" x="1280" y="1376"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note LEFT0003" x="2560" y="1377"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note RIGHT0000" x="0" y="2094"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note RIGHT0001" x="0" y="2094"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note RIGHT0002" x="1280" y="2096"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note RIGHT0003" x="2560" y="2097"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note UP0000" x="0" y="2814"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note UP0001" x="0" y="2814"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note UP0002" x="1280" y="2816"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="Dad Sing Note UP0003" x="2560" y="2817"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

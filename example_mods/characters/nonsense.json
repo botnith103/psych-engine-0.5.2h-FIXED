@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				-14,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "oh no!",
+			"indices": [],
+			"name": "oh no"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-29
+			],
+			"anim": "Bruh!",
+			"fps": 24,
+			"name": "Bruh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-78
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NoteDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-38
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NoteLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NoteRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NoteUp0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "upSTRESSED",
+			"fps": 24,
+			"name": "Up tired0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-43
+			],
+			"anim": "rightSTRESSED",
+			"fps": 24,
+			"name": "Right Tired0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-35
+			],
+			"anim": "leftSTRESSED",
+			"fps": 24,
+			"name": "Left Tired0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-25
+			],
+			"anim": "idleSTRESSED",
+			"fps": 24,
+			"name": "Idle Tired0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-79
+			],
+			"anim": "downSTRESSED",
+			"fps": 24,
+			"name": "down tired0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Nonsense",
+	"position": [
+		-30,
+		40
+	],
+	"healthicon": "nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		200,
+		240
+	],
+	"camera_position": [
+		40,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

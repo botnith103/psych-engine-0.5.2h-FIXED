@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zardy2BG.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG0000" x="0" y="0" width="2603" height="1644"/>
+	<SubTexture name="BG0001" x="2603" y="0" width="2603" height="1644"/>
+	<SubTexture name="BG0002" x="5206" y="0" width="2603" height="1644"/>
+	<SubTexture name="BG0003" x="0" y="1644" width="2603" height="1644"/>
+	<SubTexture name="BG0004" x="2603" y="1644" width="2603" height="1644"/>
+	<SubTexture name="BG0005" x="5206" y="1644" width="2603" height="1644"/>
+	<SubTexture name="BG0006" x="0" y="3288" width="2603" height="1644"/>
+	<SubTexture name="BG0007" x="2603" y="3288" width="2603" height="1644"/>
+	<SubTexture name="BG0008" x="5206" y="3288" width="2603" height="1644"/>
+	<SubTexture name="BG0009" x="0" y="4932" width="2603" height="1644"/>
+	<SubTexture name="BG0010" x="2603" y="4932" width="2603" height="1644"/>
+	<SubTexture name="BG0011" x="5206" y="4932" width="2603" height="1644"/>
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NoteDown"
+		},
+		{
+			"offsets": [
+				15,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NoteLeft0"
+		},
+		{
+			"offsets": [
+				25,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NoteRight0"
+		},
+		{
+			"offsets": [
+				20,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NoteUp0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-30
+			],
+			"anim": "NonsenseSundaydown",
+			"fps": 24,
+			"name": "NonsenseSundaydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-30
+			],
+			"anim": "NonsenseSundayleft",
+			"fps": 24,
+			"name": "NonsenseSundayleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-30
+			],
+			"anim": "NonsenseSundayright",
+			"fps": 24,
+			"name": "NonsenseSundayright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-30
+			],
+			"anim": "NonsenseSundayup",
+			"fps": 24,
+			"name": "NonsenseSundayup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				17,
+				-23
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Nonsen",
+	"position": [
+		70,
+		120
+	],
+	"healthicon": "nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		200,
+		240
+	],
+	"camera_position": [
+		100,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

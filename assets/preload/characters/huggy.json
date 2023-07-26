@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "huggy idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "huggy Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "huggy Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-68
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "huggy Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "huggy Note UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/huggy",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "huggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		2,
+		226
+	],
+	"camera_position": [
+		240,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				86,
+				51
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				147,
+				27
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				205,
+				79
+			],
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				116,
+				55
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				30,
+				67
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Holy Mami",
+	"position": [
+		0,
+		-80
+	],
+	"healthicon": "mamih",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		126
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

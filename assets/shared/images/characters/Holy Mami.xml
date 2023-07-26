@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Holy Mami.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN0000" x="12" y="5" width="1044" height="907"/>
+	<SubTexture name="DOWN0001" x="12" y="5" width="1044" height="907"/>
+	<SubTexture name="DOWN0002" x="1061" y="4" width="1044" height="907"/>
+	<SubTexture name="DOWN0003" x="1061" y="4" width="1044" height="907"/>
+	<SubTexture name="IDLE0000" x="2133" y="19" width="883" height="944"/>
+	<SubTexture name="IDLE0001" x="2133" y="19" width="883" height="944"/>
+	<SubTexture name="IDLE0002" x="3018" y="18" width="883" height="944"/>
+	<SubTexture name="IDLE0003" x="3018" y="18" width="883" height="944"/>
+	<SubTexture name="IDLE0004" x="8" y="927" width="883" height="944"/>
+	<SubTexture name="IDLE0005" x="8" y="927" width="883" height="944"/>
+	<SubTexture name="IDLE0006" x="898" y="989" width="883" height="944"/>
+	<SubTexture name="IDLE0007" x="1784" y="989" width="883" height="944"/>
+	<SubTexture name="IDLE0008" x="2670" y="989" width="883" height="944"/>
+	<SubTexture name="IDLE0009" x="2670" y="989" width="883" height="944"/>
+	<SubTexture name="IDLE0010" x="2670" y="989" width="883" height="944"/>
+	<SubTexture name="IDLE0011" x="2670" y="989" width="883" height="944"/>
+	<SubTexture name="IDLE0012" x="2670" y="989" width="883" height="944"/>
+	<SubTexture name="IDLE0013" x="2670" y="989" width="883" height="944"/>
+	<SubTexture name="LEFT0000" x="11" y="1889" width="1092" height="920"/>
+	<SubTexture name="LEFT0001" x="11" y="1889" width="1092" height="920"/>
+	<SubTexture name="RIGHT0000" x="1118" y="1950" width="1248" height="943"/>
+	<SubTexture name="RIGHT0001" x="1118" y="1950" width="1248" height="943"/>
+	<SubTexture name="UP0000" x="2382" y="1960" width="1377" height="959"/>
+	<SubTexture name="UP0001" x="12" y="2827" width="1377" height="959"/>
+	<SubTexture name="UP0002" x="2382" y="1960" width="1377" height="959"/>
+	<SubTexture name="altIDLE0000" x="1409" y="2912" width="707" height="929"/>
+	<SubTexture name="altUP0000" x="2138" y="2901" width="730" height="964"/>
+	<SubTexture name="altUP0001" x="2138" y="2901" width="730" height="964"/>
+	<SubTexture name="altUP0002" x="2866" y="2899" width="730" height="963"/>
+	<SubTexture name="altUP0003" x="2866" y="2899" width="730" height="963"/>
+</TextureAtlas>

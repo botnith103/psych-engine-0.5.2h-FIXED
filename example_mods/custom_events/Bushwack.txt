@@ -1,0 +1,8 @@
+Activates a 'Arrow Mechanic" mechanic similar 
+to the one in Zardy (Bushwack)
+
+Value 1 = Arrow Number (Default = 4)
+Value 2 = Timer (-1 = No Time limit, Anything above 0 = Timer Limit)
+(Don't set timer to 0, i think its instant death smh)
+
+Code by Doctor Krazy.
